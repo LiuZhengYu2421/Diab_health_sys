@@ -1,0 +1,5 @@
+# Created at 2026-08-25T10:21:41.036
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Dify糖尿病后端\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

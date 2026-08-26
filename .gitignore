@@ -1,0 +1,17 @@
+# Java‑SpringBoot
+target/
+*.class
+*.jar
+*.war
+
+# 前端
+node_modules/
+dist/
+
+# 日志
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
